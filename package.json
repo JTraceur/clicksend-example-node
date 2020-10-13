@@ -1,0 +1,14 @@
+{
+  "name": "clicksend-example-node",
+  "version": "1.0.0",
+  "description": "Sends a specified number a Multi-media message through the clicksend platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clicksend"
+  ],
+  "author": "Jack Bruce",
+  "license": "ISC"
+}
