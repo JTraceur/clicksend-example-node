@@ -9,3 +9,4 @@ Sends a specified number a Multi-media message through the clicksend platform.
 3. Build the `index.ts` file with Typescript
 4. Run `node index.js`
 
+You can the messages you want to send through the `environment vars.json` file.
