@@ -102,4 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Custom
 creds.json
+.vscode/
+index.js
